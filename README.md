@@ -18,6 +18,7 @@ To get PayAttention to work as a fully functioning WebApp follow these simple st
       - Install packages
       - Connect to front end web app
       - Use the provided link to go to the WebApp
+      ** Test_video_5_faces.mp4 provided as an example input to test the WebApp -- but any mp4 video can be used!
      
 ### Option 2 - Interactive Notebook
 
