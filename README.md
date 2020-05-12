@@ -26,7 +26,7 @@ You can also use PayAttention via an interactive notebook with precoded widgets:
 2. Open with Google Colab
 3. Run through Notebook Sections:
       - Install packages
-      - Runctions
+      - Functions
       - Notebook UI
       - Results cell
       
